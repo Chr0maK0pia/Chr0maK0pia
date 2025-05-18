@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Chr0maK0pia (aka glass_eater)
+- 👋 Hi, I’m @Chr0maK0pia (aka glass_eater on discord)
 - 👀 I’m interested in Engineering, Computer Science, Electronics, Music, And Fishing
 - 🌱 I’m currently learning C
 - ✌️ Im taking CS50's Intro to Computer Scienece
 - 📕 My favorite book currently is in Six easy pieces by Richard Feyman
-- 🎵 My favorite song right now is MASSA by Tyler, the creator 
+- 🎵 My favorite song right now is Untitled 03 by Kendrick Lamar.
